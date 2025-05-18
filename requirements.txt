@@ -1,0 +1,6 @@
+Flask
+langchain
+langchain_community
+groq
+Werkzeug
+crewai
